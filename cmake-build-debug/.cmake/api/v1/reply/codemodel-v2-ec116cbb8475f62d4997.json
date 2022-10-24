@@ -1,0 +1,516 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
+					]
+				},
+				{
+					"build" : "Thirdparty/g2o",
+					"jsonFile" : "directory-Thirdparty.g2o-Debug-96235f76f9ee371af9b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Thirdparty/g2o",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ORB_SLAM3",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "g2o",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ORB_SLAM3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ORB_SLAM3-Debug-d5ea45416f4bf088b3ad.json",
+					"name" : "ORB_SLAM3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "g2o::@f8c4e7b936044c71b29a",
+					"jsonFile" : "target-g2o-Debug-adbd631b7c293140b72e.json",
+					"name" : "g2o",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_euroc-Debug-51b5cbe16798188ccdb0.json",
+					"name" : "mono_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_euroc_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_euroc_old-Debug-1de41d8d3e4d00bdfdf8.json",
+					"name" : "mono_euroc_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_euroc-Debug-abccce0807d8ab87f180.json",
+					"name" : "mono_inertial_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_euroc_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_euroc_old-Debug-831b5888b449e3fb511d.json",
+					"name" : "mono_inertial_euroc_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_realsense_D435i-Debug-073290431850289642d0.json",
+					"name" : "mono_inertial_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_realsense_D435i_old-Debug-dfa0c40c6244ed5018a6.json",
+					"name" : "mono_inertial_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_realsense_t265::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_realsense_t265-Debug-b4d32667b0df4b04e377.json",
+					"name" : "mono_inertial_realsense_t265",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_realsense_t265_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_realsense_t265_old-Debug-410b9b077980df695c4f.json",
+					"name" : "mono_inertial_realsense_t265_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_tum_vi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_tum_vi-Debug-2c60e773ea8250ffe645.json",
+					"name" : "mono_inertial_tum_vi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_inertial_tum_vi_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_inertial_tum_vi_old-Debug-5eff7afd4dd9aabd82d4.json",
+					"name" : "mono_inertial_tum_vi_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_kitti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_kitti-Debug-6907380ef1692ed47c23.json",
+					"name" : "mono_kitti",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_kitti_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_kitti_old-Debug-17d36d4a3bee0141bf8a.json",
+					"name" : "mono_kitti_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_realsense_D435i-Debug-6b3ec159d09735e62a4b.json",
+					"name" : "mono_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_realsense_D435i_old-Debug-0a22b49192a327ca8c29.json",
+					"name" : "mono_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_realsense_t265::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_realsense_t265-Debug-40b85ecee851e928db4f.json",
+					"name" : "mono_realsense_t265",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_realsense_t265_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_realsense_t265_old-Debug-8b1f2ce69ae36780cbc7.json",
+					"name" : "mono_realsense_t265_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_tum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_tum-Debug-8108912c985843f22513.json",
+					"name" : "mono_tum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_tum_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_tum_old-Debug-4331c5b86f42e5006669.json",
+					"name" : "mono_tum_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_tum_vi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_tum_vi-Debug-a0a2ad5e03cb490b019e.json",
+					"name" : "mono_tum_vi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_tum_vi_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_tum_vi_old-Debug-3f762a5f97b7a21fff84.json",
+					"name" : "mono_tum_vi_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recorder_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recorder_realsense_D435i-Debug-e42efd2273b27cd19092.json",
+					"name" : "recorder_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recorder_realsense_T265::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recorder_realsense_T265-Debug-a04cc6f797b49e0fb916.json",
+					"name" : "recorder_realsense_T265",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_inertial_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_inertial_realsense_D435i-Debug-6971d02d5a6e05a597c5.json",
+					"name" : "rgbd_inertial_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_inertial_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_inertial_realsense_D435i_old-Debug-18b7faa847eaaced3061.json",
+					"name" : "rgbd_inertial_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_realsense_D435i-Debug-2e01dea4cb7ae518cd98.json",
+					"name" : "rgbd_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_realsense_D435i_old-Debug-46c4acabefb024af279c.json",
+					"name" : "rgbd_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_tum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_tum-Debug-8c86f8a39da81f4daddb.json",
+					"name" : "rgbd_tum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_tum_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_tum_old-Debug-dc1c4bf301b112f21c2f.json",
+					"name" : "rgbd_tum_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_euroc-Debug-93fdfe326944c062c14b.json",
+					"name" : "stereo_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_euroc_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_euroc_old-Debug-b7ead3991ab53c98efd1.json",
+					"name" : "stereo_euroc_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_euroc-Debug-98e0b0d34acf76046e82.json",
+					"name" : "stereo_inertial_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_euroc_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_euroc_old-Debug-994819feacf89c88609b.json",
+					"name" : "stereo_inertial_euroc_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_realsense_D435i-Debug-689ffcc41439ce7ae49e.json",
+					"name" : "stereo_inertial_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_realsense_D435i_old-Debug-3142803861fe07b32524.json",
+					"name" : "stereo_inertial_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_realsense_t265::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_realsense_t265-Debug-93ee825a2d84989c009f.json",
+					"name" : "stereo_inertial_realsense_t265",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_realsense_t265_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_realsense_t265_old-Debug-8bd34d8704b036e64104.json",
+					"name" : "stereo_inertial_realsense_t265_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_tum_vi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_tum_vi-Debug-91df096a4ebdebba38c2.json",
+					"name" : "stereo_inertial_tum_vi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_inertial_tum_vi_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_inertial_tum_vi_old-Debug-0ca41c48933cd2b87fca.json",
+					"name" : "stereo_inertial_tum_vi_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_kitti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_kitti-Debug-225907d1f7c61cc9bb7f.json",
+					"name" : "stereo_kitti",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_kitti_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_kitti_old-Debug-07fb0b6165b49717410a.json",
+					"name" : "stereo_kitti_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_realsense_D435i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_realsense_D435i-Debug-8c63156f526ccd268acb.json",
+					"name" : "stereo_realsense_D435i",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_realsense_D435i_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_realsense_D435i_old-Debug-9cc76db019aaadaac6bb.json",
+					"name" : "stereo_realsense_D435i_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_realsense_t265::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_realsense_t265-Debug-1497f9be54752b527b68.json",
+					"name" : "stereo_realsense_t265",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_realsense_t265_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_realsense_t265_old-Debug-e31306afc85f68792c73.json",
+					"name" : "stereo_realsense_t265_old",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_tum_vi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_tum_vi-Debug-2e8dc8d9de8388564201.json",
+					"name" : "stereo_tum_vi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_tum_vi_old::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_tum_vi_old-Debug-2743677f26a6ac45006f.json",
+					"name" : "stereo_tum_vi_old",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lucas/catkin_ws/src/ORB_SLAM3/cmake-build-debug",
+		"source" : "/home/lucas/catkin_ws/src/ORB_SLAM3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

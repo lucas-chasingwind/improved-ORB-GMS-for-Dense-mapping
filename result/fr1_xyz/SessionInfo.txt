@@ -1,0 +1,3 @@
+Number of KFs: 57
+Number of MPs: 2500
+OpenCV version: 3.4.2
