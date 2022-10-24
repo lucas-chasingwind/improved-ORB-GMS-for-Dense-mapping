@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # improved-ORB-GMS-for-Dense-mapping
 # hello everyone! I am lucas.
 =======
@@ -238,3 +239,7 @@ A flag in `include\Config.h` activates time measurements. It is necessary to unc
 # 9. Calibration
 You can find a tutorial for visual-inertial calibration and a detailed description of the contents of valid configuration files at  `Calibration_Tutorial.pdf`
 >>>>>>> 8f37e5a (first commit)
+=======
+# improved-ORB-GMS-for-Dense-mapping
+# hello everyone! I am lucas.
+>>>>>>> 653321dc5e3f426f166f1d029d4deb272ae9eef1
